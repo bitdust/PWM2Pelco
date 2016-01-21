@@ -1,6 +1,6 @@
 # PWM2Pelco
 Convert PWM signal to PELCO-D protocol commands.  
-Use RC transmitter to control the optical zoom security camera.
+Use RC transmitter to control the optical zoom security camera mounted on UAV/quadrotor.
 
 将舵机用PWM信号转换为PELCO-D摄像头控制协议，从而完成对常见安防摄像头的远程控制。  
 这一项目最初目的是在廉价航模/无人机上搭载可变焦安防摄像机，完成对地侦查，安防监视任务。  
@@ -24,6 +24,9 @@ Use RC transmitter to control the optical zoom security camera.
 ![2](https://cloud.githubusercontent.com/assets/6072743/12490555/2c317de4-c0b1-11e5-8fae-888ed0f2a467.jpg)
 ![4](https://cloud.githubusercontent.com/assets/6072743/12490556/2c60e1ec-c0b1-11e5-8c3d-42e709d14d9f.jpg)
 ![20140825151341](https://cloud.githubusercontent.com/assets/6072743/12490355/16b15a76-c0b0-11e5-9bfc-7a164d8cbbf3.jpg)
+![img_20140824_201046](https://cloud.githubusercontent.com/assets/6072743/12491242/04cae8c2-c0b5-11e5-8fb8-0e7e1727cf7a.jpg)
+![img_20140930_175551](https://cloud.githubusercontent.com/assets/6072743/12491252/1051aadc-c0b5-11e5-9d17-9ddf0dd57720.jpg)
+
 
 # PS:
 I know the code is so terrible and  there should be more documents about how it works~ maybe, just maybe i will fix it later.   
